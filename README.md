@@ -15,4 +15,4 @@ LuxeBite adalah aplikasi web pemesanan makanan mewah yang dibangun dengan Node.j
 2. Jalankan aplikasi: `npm run dev`
 3. Buka di peramban: `http://127.0.0.1:3000`
 
-*(SemVer v1.0.0)*
+*(SemVer v1.2.1)*
