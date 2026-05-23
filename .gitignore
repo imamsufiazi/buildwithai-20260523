@@ -1,0 +1,7 @@
+node_modules/
+.env
+data/
+skills/
+.agents/
+cookies.txt
+*.log
